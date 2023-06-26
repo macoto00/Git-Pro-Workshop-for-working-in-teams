@@ -26,6 +26,7 @@ bin/
 .vscode/
 
 ### Mac OS ###
+.idea
 .DS_Store
 demo/.idea
 out
