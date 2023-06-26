@@ -27,3 +27,14 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+.idea
+out
+*.iml
+*.xml
+
+.DS_Store
+.vscode/
+node_modules/
+
+.gradle
+build/
