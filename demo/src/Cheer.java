@@ -1,7 +1,7 @@
 public class Cheer {
     public void cheer(){
 
-        String name = "Lopar";
+        String name = "hovno";
 
         System.out.println("Walk a dog dog");
         System.out.println(name);
