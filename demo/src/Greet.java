@@ -1,7 +1,5 @@
 public class Greet {
-    public static void greet(){
-        String greeting = "Greetings";
-        System.out.println(greeting);
-        System.out.println("Tomáš");
+    public static void greet(String one, String two){
+        System.out.println("Tomáš" + one + two);
     }
 }
