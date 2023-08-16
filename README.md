@@ -10,4 +10,5 @@ Learn how we can use Git for working in teams
 - unstash
 - pull requests
 - handling pull requests
+- handling conflicts
   
