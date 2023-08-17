@@ -34,6 +34,8 @@ git branch [branch name]: Create a new branch with the specified name.
 
 git checkout [branch name]: Switch to the specified branch.
 
+git checkout -b [new branch name]: Create a new branch a checkout on the branch in a single line command.
+
 git merge [branch name]: Merge the changes from the specified branch into the current branch.
 
 git log: Display a log of commits, showing commit hashes, authors, dates, and commit messages.
